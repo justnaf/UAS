@@ -3,7 +3,7 @@
 ### Pengolahan Citra Digital
 Cloud Classification In 3 Categories (Cloudy, Windy, Clear Sky)
 
-Using VGG19 for CNN Architecture
+Using VGG19 Keras Application for CNN Architecture
 
 Dataset Get Form : 
 - https://dataverse.harvard.edu/ [Cirrus Cumulus Stratus Nimbus (CCSN) Database Version 2.0]
